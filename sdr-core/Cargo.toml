@@ -1,0 +1,9 @@
+[package]
+name = "sdr-core"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+description = "Hardware-independent parts of the ESP-SDR protocol: parsing, packing, CRC and tuning math"
+license = "GPL-3.0-or-later"
+
+[dependencies]
